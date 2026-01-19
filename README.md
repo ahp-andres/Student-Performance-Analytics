@@ -21,18 +21,18 @@ El análisis busca responder preguntas clave para las instituciones educativas m
 Más allá de limpiar tablas, el objetivo es interpretar el comportamiento estudiantil.
 
 ### 1. El Mito de las "Horas Silla"
-> ![Correlación de Variables](heatmap_estudiante.png)
+> ![Correlación de Variables](heatmap_estudiantes.png)
 >
 > * **El Hallazgo:** El análisis de correlación desmiente la idea tradicional de que "más horas sentado estudiando" garantizan el éxito. La correlación entre *Horas de Estudio* y *Rendimiento* es positiva pero moderada.
 > * **Traducción:** La **calidad y el método** de estudio son predictores más fuertes que la simple cantidad de tiempo invertido.
 
 ### 2. El Debate: ¿Online vs. Híbrido?
-> ![Rendimiento por Método](boxplot_estudiante.png)
+> ![Rendimiento por Método](boxplot_estudiantes.png)
 >
 > * **Análisis Comparativo:** Al segmentar la data, observamos que los estudiantes con metodología **"Mixed" (Híbrida)** presentan una mediana de notas superior y, lo más importante, una menor dispersión en el bajo rendimiento comparado con el formato 100% Online.
 
 ### 3. Radiografía del Riesgo Académico
-> ![Distribución de Notas](histograma_estudiante.png)
+> ![Distribución de Notas](histograma_estudiantes.png)
 >
 > * **Diagnóstico:** La distribución de notas sigue una curva normal con un ligero sesgo positivo. Sin embargo, la "cola izquierda" del gráfico permite identificar y aislar al segmento de **Alumnos en Riesgo Crítico** para intervenciones tempranas.
 
